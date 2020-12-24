@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## Use headings to create page groups like this one​
+## A FIRST PAGE GROUP <a id="use-headings-to-create-page-groups-like-this-one"></a>
 
 * [Components](use-headings-to-create-page-groups-like-this-one/components/README.md)
   * [Button](use-headings-to-create-page-groups-like-this-one/components/button.md)
