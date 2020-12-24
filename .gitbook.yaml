@@ -1,0 +1,10 @@
+root: ./
+
+​structure:  
+    readme: README.md  
+    summary: SUMMARY.md​
+    
+redirects:  
+    components/button: src/components/Button/Button.md
+    components/heading: src/components/Heading/Heading.md
+    components/image: src/components/Image/Image.md
