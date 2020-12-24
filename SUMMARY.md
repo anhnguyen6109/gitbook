@@ -7,9 +7,10 @@
     * [Heading](src/components/Heading/Heading.md)
 	* [Image](src/components/Image/Image.md)
     
-* [Second page's title](page2/README.md)    
-    * [Some child page](page2/page2-1.md)    
-    * [Some other child page](part2/page2-2.md)    
+* [Section](src/sections/README.md)    
+    * [Banners](src/sections/Banners/Banners.md)
+    * [Basic](src/sections/Basic/Basic.md)
+	* [Footers](src/sections/Footers/Footers.md)
     
 ## A second-page group​
 
